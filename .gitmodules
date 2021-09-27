@@ -1,0 +1,4 @@
+[submodule "lilimath-troglodi"]
+	path = lilimath-troglodi
+	url = https://github.com/tflament/lilimath-troglodi.git
+	branch = master
